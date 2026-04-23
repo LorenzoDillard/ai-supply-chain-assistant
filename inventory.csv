@@ -1,0 +1,12 @@
+Product,Category,Current_Stock,Reorder_Point,Units_Sold_Last_7_Days,Supplier,Lead_Time_Days
+Whole Milk 1gal,Dairy,320,200,410,FreshFarm Co,3
+Greek Yogurt 32oz,Dairy,85,150,220,FreshFarm Co,3
+Cheddar Cheese 2lb,Dairy,40,100,180,FreshFarm Co,3
+White Bread,Bakery,510,300,390,SunBake Supply,2
+Sourdough Loaf,Bakery,22,80,140,SunBake Supply,2
+Tortilla Chips 14oz,Snacks,670,400,310,SnackWorks,5
+Granola Bars 12ct,Snacks,95,200,260,SnackWorks,5
+Orange Juice 52oz,Beverages,130,250,300,ClearSpring Bev,4
+Sparkling Water 12pk,Beverages,480,300,190,ClearSpring Bev,4
+Frozen Pizza 12in,Frozen,60,120,200,IcePeak Foods,6
+Frozen Burritos 8ct,Frozen,200,150,170,IcePeak Foods,6
